@@ -1,5 +1,5 @@
-# Привет, меня зовут Аня 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A582C&center=true&width=435&lines=Programming+Enthusiast)](https://git.io/typing-svg)
+# Привет, меня зовут Аня 👋
 ## Развиваюсь в сфере Computer Vision, Machine Learning и Data Science
 
 Казанский Федеральный Университет
