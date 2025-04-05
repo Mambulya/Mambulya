@@ -5,11 +5,26 @@
 Казанский Федеральный Университет\n
 Направление "Прикладная математика и информатика"
 
+-- <div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 
 [![codewars](https://www.codewars.com/users/frog_se/badges/small)](https://www.codewars.com/users/username)
+---
+
+### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mambulya)](https://github.com/Mambulya/github-readme-stats)
 
-связаться со мной можно в [телеграмм]() или [почтой]()
+связаться со мной можно через [телеграмм]() или [почту]()
 
 ---
 Языки программирования:
