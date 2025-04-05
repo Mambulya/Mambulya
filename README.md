@@ -5,7 +5,7 @@
 Казанский Федеральный Университет "Прикладная математика и информатика"
 
 <div id="badges">
-  <a href="https://t.me/@persi_shmersi">
+  <a href="t.me/persi_shmersi">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="your-youtube-URL">
