@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://e.mail.ru/cgi-bin/sentmsg?To=yashnova.anya@mail.ru&from=otvet&afterReload=1">
-    <img src="https://img.shields.io/badge/maildotru-red?style=for-the-badge&logo=maildotru&logoColor=white" alt="mailgun Badge"/>
+    <img src="https://img.shields.io/badge/maildotru-red?style=for-the-badge&logo=maildotru&logoColor=white" alt="maildotru Badge"/>
   </a>
 </div>
 
