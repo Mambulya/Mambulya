@@ -17,7 +17,7 @@
 [![codewars](https://www.codewars.com/users/frog_se/badges/small)](https://www.codewars.com/users/username)
 ---
 
-### 💻: My Stats :
+### 💻 My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mambulya)](https://github.com/Mambulya/github-readme-stats)
 
 
