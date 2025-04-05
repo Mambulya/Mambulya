@@ -8,5 +8,24 @@
 
 [![codewars](https://www.codewars.com/users/frog_se/badges/small)](https://www.codewars.com/users/username)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+связаться со мной можно в [телеграмм]() или [почтой]()
+
+---
+Языки программирования:
+* Python
+* Java
+* C++
+* C
+* Язык запросов SQL(PostgerSQL)
+
+---
+Ключивые навыки:
+* Git
+* Bash
+* OpenCV
+* Pandas, Numpy, Sklearn
+* Matplotlib, Seaborn, Plotly
+
+---
+Курсы:
+* Школа 21
