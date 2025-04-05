@@ -1,5 +1,9 @@
-## Hi there 👋
+# Привет, меня зовут Аня 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A582C&center=true&width=435&lines=Programming+Enthusiast)](https://git.io/typing-svg)
+## Развиваюсь в сфере Computer Vision, Machine Learning и Data Science
 
+Казанский Федеральный Университет
+Направление "Прикладная математика и информатика"
 <!--
 **Mambulya/Mambulya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
