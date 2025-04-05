@@ -4,7 +4,7 @@
 <br>Развиваюсь в сфере Computer Vision, Machine Learning и Data Science<br/>
 Казанский Федеральный Университет "Прикладная математика и информатика"
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/persi_shmersi">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
