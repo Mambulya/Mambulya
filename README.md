@@ -2,7 +2,10 @@
 # Привет, меня зовут Аня 👋
 ## Развиваюсь в сфере Computer Vision, Machine Learning и Data Science
 
-Казанский Федеральный Университет
+Казанский Федеральный Университет\n
 Направление "Прикладная математика и информатика"
 
+
 [![codewars](https://www.codewars.com/users/frog_se/badges/small)](https://www.codewars.com/users/username)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
