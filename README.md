@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10642F&width=435&lines=Programming+Enthusiast)](https://git.io/typing-svg)
 # Привет, меня зовут Аня 👋
 
-Развиваюсь в сфере Computer Vision, Machine Learning и Data Science
+<br>Развиваюсь в сфере Computer Vision, Machine Learning и Data Science<br/>
 Казанский Федеральный Университет "Прикладная математика и информатика"
 
 <div id="badges">
