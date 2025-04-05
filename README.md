@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://e.mail.ru/cgi-bin/sentmsg?To=yashnova.anya@mail.ru&from=otvet&afterReload=1">
-    <img src="https://img.shields.io/badge/mailgun-white?style=for-the-badge&logo=mailgun&logoColor=white" alt="mailgun Badge"/>
+    <img src="https://img.shields.io/badge/mailgun-red?style=for-the-badge&logo=mailgun&logoColor=white" alt="mailgun Badge"/>
   </a>
 </div>
 
